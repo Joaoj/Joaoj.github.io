@@ -569,7 +569,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "European Union Quiz (2018) [Android]<br>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Projects",
@@ -660,20 +660,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "3D Cartoony Mobile Fighting Game<br>",
-                "active": false
-              },
-              {
-                "tags": "Launched Games",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-8-5-17-30-11-870181.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=M1tm53B5p8c&t=5s",
-                "image": "@PROJECT_PATH@/assets/images/v2-photoshop-1920x1080.png",
-                "thumb": "@PROJECT_PATH@/assets/images/v2-photoshop-1920x1080-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Penalty Quiz (2018) [Android]<br>",
-                "active": false
+                "active": true
               }
             ]
           }

@@ -711,19 +711,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "3D Cartoony Mobile Fighting Game<br>",
-                "active": false
-              },
-              {
-                "tags": "Projects",
-                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2018113-1447352018-11-1-14-54-40.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/vpfwCwK9RQo",
-                "image": "@PROJECT_PATH@/assets/images/artboard-1-1920x854.png",
-                "thumb": "@PROJECT_PATH@/assets/images/artboard-1-1920x854-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "European Union Quiz (2018) [Android]<br>",
                 "active": true
               }
             ]
